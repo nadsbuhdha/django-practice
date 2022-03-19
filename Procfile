@@ -1,0 +1,1 @@
+web: gunicorn dangjo_todo.wsgi.application
